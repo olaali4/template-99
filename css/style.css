@@ -1,0 +1,38 @@
+body{
+    height: 5000px;
+
+}
+
+.hx{
+    position: relative;
+    background-image: url(../img/ffphoto-5380642.jpeg);
+    height:350px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.overlay-6{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black ;
+    opacity: 0.7;
+}
+/* ///////////////////////////////////////// */
+.hx1{
+    position: relative;
+    background-image: url(../img/66.jpeg);
+    height:350px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.overlay-6-1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black ;
+    opacity: 0.7;
+}
